@@ -1,36 +1,115 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio Pessoal – Full Stack Developer
 
-## Getting Started
+Este repositório contém o código-fonte do meu portfolio pessoal, desenvolvido com foco em performance, organização de código e boas práticas de desenvolvimento web.
 
-First, run the development server:
+O objetivo deste projeto é apresentar minhas habilidades técnicas, projetos e minha evolução como desenvolvedor.
 
-```bash
+## 🧠 Sobre o Projeto
+
+Este portfolio foi construído para:
+
+Mostrar meus projetos reais
+
+Demonstrar minhas skills em frontend e backend
+
+Servir como cartão de visita profissional
+
+O projeto segue uma estrutura moderna, usando tecnologias atuais do ecossistema JavaScript.
+
+## 🛠️ Tecnologias Utilizadas
+# 🔹 Linguagens
+
+* JavaScript
+
+* TypeScript
+
+# 🔹 Frontend
+
+* React
+
+* Next.js
+
+* HTML
+
+* CSS
+
+* Tailwind CSS
+
+## 🔹 Backend
+
+* Node.js
+
+* Express.js
+
+* APIs REST
+
+🔹 Banco de Dados
+
+* MongoDB (quando aplicável)
+
+## 🔹 Ferramentas
+
+* Git
+
+* GitHub
+
+* Docker (em alguns projetos)
+
+## ▶️ Como Executar o Projeto Localmente
+
+* 1️⃣ Clonar o repositório
+git clone https://github.com/faustiano733/portfoliio.git
+
+* 2️⃣ Entrar na pasta do projeto
+cd nome-do-repositorio
+
+* 3️⃣ Instalar as dependências
+npm install
+# ou
+yarn install
+
+4️⃣ Rodar o projeto
 npm run dev
-# or
+# ou
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+O projeto ficará disponível em:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+http://localhost:3000
 
-## Learn More
+📌 Funcionalidades
 
-To learn more about Next.js, take a look at the following resources:
+Página inicial com apresentação pessoal
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Lista de projetos
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Seção de skills técnicas
 
-## Deploy on Vercel
+Design responsivo (desktop e mobile)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Código organizado e reutilizável
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🎯 Objetivos de Aprendizado
+
+Aplicar boas práticas de React e Next.js
+
+Melhorar organização de código
+
+Trabalhar com componentes reutilizáveis
+
+Evoluir como Full Stack Developer
+
+📫 Contato
+
+Caso queira entrar em contato comigo:
+
+GitHub: [text](https://github.com/faustiano733/)
+
+LinkedIn: [text](https://www.linkedin.com/in/faustiano-geraldo-154047339/)
+
+Email: faustiangerald18@gmail.com
+
+⭐ Observação Final
+
+Este projeto está em constante evolução, acompanhando meu crescimento como desenvolvedor.
